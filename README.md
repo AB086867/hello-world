@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi to everyone
+
+My name is harshitha, and I like programming.
